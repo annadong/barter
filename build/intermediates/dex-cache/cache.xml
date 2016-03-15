@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vincent\Documents\raise-the-bar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Vincent\Documents\raise-the-bar\app\build\intermediates\pre-dexed\debug\classes-71eaec32f6e5778317d6bce90a446fd25fb563ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vincent\Documents\raise-the-bar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Vincent\Documents\raise-the-bar\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-94caba04999d0a841b5cc396c7f9b274affaedd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vincent\Documents\raise-the-bar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Vincent\Documents\raise-the-bar\app\build\intermediates\pre-dexed\debug\classes-2c9b682e00c47825e72690fa547dcd646425e185.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vincent\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Vincent\Documents\raise-the-bar\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-cd747216a1d674ed209d4111ca03a755de0291c2.jar" />
+    </item>
+
+</items>
